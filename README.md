@@ -157,15 +157,4 @@ This project reflects **real-world ML problem solving**, not just metric optimiz
 - SHAP
 - Matplotlib / Seaborn
 
----
 
-## 🚀 Future Improvements
-- Cost-based evaluation using monetary loss
-- Deployment as a simple API
-- Monitoring drift and model decay
-- A/B testing retention strategies
-
----
-
-## 👤 Author
-Developed as a portfolio-ready machine learning project focusing on practical, explainable, and business-aligned ML solutions.
